@@ -1,0 +1,115 @@
+# Object files
+*.o
+
+# Compiled files
+*.out
+*.exe
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+
+# Shared objects (shared libraries)
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.gcno
+*.gcda
+*.gcov
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Static code analysis files
+*.plist
+
+# Generated documentation
+*.html
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE specific files
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Eclipse IDE
+.project
+.cproject
+.settings/
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcworkspace
+!default.xcworkspace
+*.xcprojects/
+*.xcsettings
+*.xcdebugger
+*.xccheckout
+*.xcuserstate
+
+# Visual Studio
+*.VC.db
+*.VC.VC.opendb
+.vscode/
+.vscode/*
+
+# Other build directories
+/build/
+/bin/
+/lib/
+/obj/
+/out/
+
+# Generated files
+*.ii
+*.s
+*.i
+
+# Makefile and cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# autotools
+/autom4te.cache/
+/config.guess
+/config.sub
+/configure
+/depcomp
+/install-sh
+/ltmain.sh
+/missing
+/Makefile.in
+/Makefile.am
+/stamp-h1
+/config.h.in
+/aclocal.m4
+/compile
+/config.log
+/config.status
+/libtool
+.libs/
